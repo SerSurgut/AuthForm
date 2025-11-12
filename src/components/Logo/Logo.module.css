@@ -1,0 +1,16 @@
+.logo {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.icon {}
+
+.title {
+	font-size: 20px;
+	font-weight: 700;
+	text-align: center;
+	color: #000000;
+	/* margin: 0;
+	line-height: 1.4; */
+}
